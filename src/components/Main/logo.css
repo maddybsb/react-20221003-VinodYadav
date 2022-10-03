@@ -1,0 +1,15 @@
+.logo1 {
+position: absolute;
+width: 186px;
+height: 53px;
+left: 50px;
+top: 24px;
+
+font-family: 'Dancing Script';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+
+color: black;
+}
